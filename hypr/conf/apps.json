@@ -1,0 +1,6 @@
+{
+    "browser": "firefox",
+    "editor": "code",
+    "filemanager": "nautilus",
+    "terminal": "alacritty"
+}
